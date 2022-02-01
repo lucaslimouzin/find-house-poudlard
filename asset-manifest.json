@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/find-house-poudlard/static/css/main.eb303926.css",
+    "main.js": "/find-house-poudlard/static/js/main.bfdfba31.js",
+    "index.html": "/find-house-poudlard/index.html",
+    "main.eb303926.css.map": "/find-house-poudlard/static/css/main.eb303926.css.map",
+    "main.bfdfba31.js.map": "/find-house-poudlard/static/js/main.bfdfba31.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eb303926.css",
+    "static/js/main.bfdfba31.js"
+  ]
+}
