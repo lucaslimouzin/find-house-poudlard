@@ -1,0 +1,181 @@
+[
+    {
+        "id": 1,
+        "phrase": "Tu préférerais entrer dans l'histoire sous le nom Le/La Sage",
+        "maison": "Serdaigle"
+    }, 
+    {
+        "id": 2,
+        "phrase": "Tu préférerais entrer dans l'histoire sous le nom Le Bon ou La Bonne",
+        "maison": "Poufsouffle"
+    }
+    , 
+    {
+        "id": 3,
+        "phrase": "Tu préférerais entrer dans l'histoire sous le nom Le grand ou la Grande",
+        "maison": "Serpentard"
+    }
+    , 
+    {
+        "id": 4,
+        "phrase": "Tu préférerais entrer dans l'histoire sous le nom L'Intrépide",
+        "maison": "Gryffondor"
+    }, 
+    {
+        "id": 5,
+        "phrase": "Tu détesterais le plus qu'on te traite de personne banale",
+        "maison": "Serpentard"
+    }
+    , 
+    {
+        "id": 6,
+        "phrase": "Tu détesterais le plus qu'on te traite d'ignare",
+        "maison": "Serdaigle"
+    }
+    , 
+    {
+        "id": 7,
+        "phrase": "Tu détesterais le plus qu'on te traite de trouillard(e)",
+        "maison": "Gryffondor"
+    }, 
+    {
+        "id": 8,
+        "phrase": "Tu détesterais le plus qu'on te traite d'égoiste",
+        "maison": "Poufsouffle"
+    }
+    , 
+    {
+        "id": 9,
+        "phrase": "Tu préférerais inventer une potion te garantissant le pouvoir",
+        "maison": "Serpentard"
+    }
+    , 
+    {
+        "id": 10,
+        "phrase": "Tu préférerais inventer une potion te garantissant la gloire",
+        "maison": "Gryffondor"
+    }, 
+    {
+        "id": 11,
+        "phrase": "Tu préférerais inventer une potion te garantissant l'amour",
+        "maison": "Poufsouffle"
+    }
+    , 
+    {
+        "id": 12,
+        "phrase": "Tu préférerais inventer une potion te garantissant la sagesse",
+        "maison": "Serdaigle"
+    }
+    , 
+    {
+        "id": 13,
+        "phrase": "Après la mort, tu préférerais que les gens se souviennes de toi en se racontant inlassablement les récits de tes aventures",
+        "maison": "Gryffondor"
+    }, 
+    {
+        "id": 14,
+        "phrase": "Après la mort, tu préférerais que les gens se souviennes de toi en se disant que tu leur manques, mais en gardant tout de même le sourire quand ils pensent à toi",
+        "maison": "Poufsouffle"
+    }
+    , 
+    {
+        "id": 15,
+        "phrase": "Après la mort, tu préférerais que les gens se souviennes de toi peut importe ce que les gens penseront de moi, ce qui compte c'est ce qu'ils penset de moi tant que je suis vivant(e)",
+        "maison": "Serpentard"
+    }
+    , 
+    {
+        "id": 16,
+        "phrase": "Après la mort, tu préférerais que les gens se souviennes de toi en éprouvant de l'admiration quand ils pensent à tous tes exploits",
+        "maison": "Serdaigle"
+    }, 
+    {
+        "id": 17,
+        "phrase": "La plante à Pipaillon produit un parfum pour te plaire et t'attirer, elle dégage l'odeur de ta maison",
+        "maison": "Poufsouffle"
+    }
+    , 
+    {
+        "id": 18,
+        "phrase": "La plante à Pipaillon produit un parfum pour te plaire et t'attirer, elle dégage l'odeur de la mer",
+        "maison": "Serpentard"
+    }
+    , 
+    {
+        "id": 19,
+        "phrase": "La plante à Pipaillon produit un parfum pour te plaire et t'attirer, elle dégage l'odeur d'un feu de bois crépitant",
+        "maison": "Gryffondor"
+    }, 
+    {
+        "id": 20,
+        "phrase": "La plante à Pipaillon produit un parfum pour te plaire et t'attirer, elle dégage l'odeur d'un parchemin neuf",
+        "maison": "Serdaigle"
+    }
+    , 
+    {
+        "id": 21,
+        "phrase": "Quatre boîtes devant toi, tu préfères ouvrir la petite boîte en écailles de tortue dorée à l'or fin qui semble contenir une minuscule créature qui couine.",
+        "maison": "Poufsouffle"
+    }
+    , 
+    {
+        "id": 22,
+        "phrase": "Quatre boîtes devant toi, tu préfères ouvrir la boîte d'un noir brillant dotée d'une serrure et d'une clé en argent et qui porte une mystérieuse inscription en runes que tu identifies immédiatement comme étant la signature de Merlin",
+        "maison": "Serpentard"
+    }
+    , 
+    {
+        "id": 23,
+        "phrase": "Quatre boîtes devant toi, tu préfères ouvrir la petite boîte en étain, simple et sans prétention, sur laquelle on peut lire une inscription rayée qui dit 'Je ne m'ouvre que pour celui ou celle qui le mérite.'",
+        "maison": "Gryffondor"
+    }, 
+    {
+        "id": 24,
+        "phrase": "Quatre boîtes devant toi, tu préfères ouvrir Le coffret en or sculpté, posé sur deux pieds pourvus de griffes, dont l'inscription te prévient qu'il renferme des connaissances secrètes et une tentation irrésistible.",
+        "maison": "Serdaigle"
+    }, 
+    {
+        "id": 25,
+        "phrase": "L'instrument de musique que tu aimes le plus entendre est la trompette",
+        "maison": "Poufsouffle"
+    }
+    , 
+    {
+        "id": 26,
+        "phrase": "L'instrument de musique que tu aimes le plus entendre est le violon",
+        "maison": "Serpentard"
+    }
+    , 
+    {
+        "id": 27,
+        "phrase": "L'instrument de musique que tu aimes le plus entendre est le tambour",
+        "maison": "Gryffondor"
+    }, 
+    {
+        "id": 28,
+        "phrase": "L'instrument de musique que tu aimes le plus entendre est le piano",
+        "maison": "Serdaigle"
+    }, 
+    {
+        "id": 29,
+        "phrase": "En face de quatre coupes remplies d'un liquide mystérieux, tu choisis de boire celle qui contient une boisson violette, onctueuse et épaisse, qui dégage un délicieux parfum de chocolat et de prunes. ",
+        "maison": "Poufsouffle"
+    }
+    , 
+    {
+        "id": 30,
+        "phrase": "En face de quatre coupes remplies d'un liquide mystérieux, tu choisis de boire celle qui contient un étrange liquide noir qui brille comme de l'encre et dégage des vapeurs provoquant d'étranges hallucinations.",
+        "maison": "Serpentard"
+    }
+    , 
+    {
+        "id": 31,
+        "phrase": "En face de quatre coupes remplies d'un liquide mystérieux, tu choisis de boire celle qui contient un liquide doré et brillant qui fait mal aux yeux et fait voir des taches lumineuses partout.",
+        "maison": "Gryffondor"
+    }, 
+    {
+        "id": 32,
+        "phrase": "En face de quatre coupes remplies d'un liquide mystérieux, tu choisis de boire celle qui contient un liquide argenté et mousseux qui scintille comme s'il renfermait de la poudre de diamant. ",
+        "maison": "Serdaigle"
+    }
+]
